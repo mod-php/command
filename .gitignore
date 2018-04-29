@@ -2,3 +2,4 @@ vendor/
 tmp/
 .idea/
 .DS_Store
+*.lock
